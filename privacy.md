@@ -1,11 +1,19 @@
+**Termos de serviços da Makesystem**
 
-```{r COMPANY <- Makesystem}
-fig_small <- FALSE # change to TRUE for larger figures
-width_small <- 4
-width_large <- 8
-```
+Em vigor a partir de 5 de junho de 2022
+ 
+**O que estes termos cobrem**
+### Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços  da Makesystem e o que esperamos de você.
 
-```{r, fig.width=if (fig_small) width_small else width_large}
-plot(cars)
-{{ COMPANY }}
-```
+# Termos
+
+## Provedora de serviços
+
+Os  serviços da Makesystem que você pode contratar são fornecidos por:
+
+Makesystem LTDA  ME
+organizada de acordo com as leis do estado do Rio Grande do Sul, Brasil, e opera de  acordo com as leis do Brasil.
+
+Rua São Joaquim, 611 sala 904, Centro, 
+São Leopoldo, Rio Grande do Sul 93010190
+Brasil

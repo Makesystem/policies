@@ -1,6 +1,6 @@
 
 ```{r COMPANY <- Makesystem}
-fig_small <- TRUE # change to TRUE for larger figures
+fig_small <- FALSE # change to TRUE for larger figures
 width_small <- 4
 width_large <- 8
 ```

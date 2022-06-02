@@ -7,7 +7,6 @@ Em vigor a partir de 5 de junho de 2022
 
 # Termos
 
-
 ## Provedora de serviços
 
 Os  serviços da Makesystem que você pode contratar são fornecidos por:
@@ -15,6 +14,10 @@ Os  serviços da Makesystem que você pode contratar são fornecidos por:
 Makesystem LTDA  ME
 organizada de acordo com as leis do estado do Rio Grande do Sul, Brasil, e opera de  acordo com as leis do Brasil.
 
-Rua São Joaquim, 611 sala 904, Centro, 
+Rua São Joaquim, 611 sala 904, Centro,
 São Leopoldo, Rio Grande do Sul 93010190
 Brasil
+
+## Seu relacionamento com a Makesystem
+
+Estes termos ajudam a definir o relacionamento entre você e a Makesystem. De modo geral, permitimos que você use nossos  serviços se concordar em seguir estes termos. Quando falamos de "Makesystem", "nós", "nosso" ou "nossa", estamos nos referindo à Makesystem LTDA ME.

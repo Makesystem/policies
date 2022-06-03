@@ -146,7 +146,7 @@ O preço unitário poderá ser atualizado de acordo com a taxa de correção apl
   
 9.6. Cláusulas perenes. As Cláusulas denominadas “Remuneração e Pagamento”, “Direitos de Propriedade”, “Confidencialidade”, “Garantias e Avisos”, “Reembolso ou Pagamento na Rescisão”, “Devolução dos Dados do Cliente”, “Cláusulas Perenes” e “Disposições Gerais” permanecerão em vigor quando da rescisão ou término deste Contrato.
 
-![](https://raw.githubusercontent.com/Makesystem/policies/main/resources/images/about_these_terms_illustration.png width="50%")
+![](https://raw.githubusercontent.com/Makesystem/policies/main/resources/images/about_these_terms_illustration.png width="50")
 >## 10. Disposições gerais
 
 10.1. Anticorrupção. O CONTRATANTE declara que não lhe foi dado ou oferecido qualquer propina, suborno, pagamento, presente ou bens de valor por empregados da CONTRATADA, ou agentes relacionados a este Contrato. Caso o CONTRATANTE tome conhecimento de qualquer violação à presente restrição, deverá utilizar esforços razoáveis para imediatamente notificar o Departamento Legal da CONTRATADA.  

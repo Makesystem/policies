@@ -4,13 +4,12 @@
  
 ## Sabemos que é tentador pular estes Termos de Uso, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços da Makesystem e o que esperamos de você.
 
-## Termos
 
-#### **Atualizações/Modificações deste Termo de Uso**
+>## **Atualizações/Modificações deste Termo de Uso**
 
 De tempos em tempos a Makesystem pode atualizar esse termo. A não ser que especificado pela Makesystem, quaisquer atualizações se tornam efetivas de acordo com a renovação do termo vigente do Contratante (como definido nas cláusulas abaixo), ou através de solicitação proativa da Contratante. A Makesystem buscará esforços razoáveis para notificar o Contratante através de vias de comunicações sinalizadas pelo Contratante no momento da contratação, como e-mail ou outros canais. O Contratante terá que clicar em "Aceito" ou "Solicitar Contato" sobre a atualização dos termos antes da renovação ou alteração de plano. Caso a Makesystem especifique que as atualizações ou modificações vão ser válidas antes da renovação do Contratante e o Contratante não acordar com as alterações, o Contratante pode optar por cancelar com a Makesystem(como definido nas cláusulas abaixo).
 
-### Contrato Master de Assinatura & Serviços de Software
+>## Contrato Master de Assinatura & Serviços de Software
 
 Por este instrumento particular de contrato (“Contrato”), na melhor forma do Direito, por estarem de acordo com todas as cláusulas que se seguem, tendo por partes.  
 
@@ -20,11 +19,11 @@ Por este instrumento particular de contrato (“Contrato”), na melhor forma do
   
 CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como “Parte” e, em conjunto, como “Partes”.  
   
-#### **Este modelo de contrato é aplicado, de forma igualitária, a todos os clientes da Makesystem. Seu formato já é adaptado para ser o mais sucinto possível para os nossos clientes, provendo-lhes a devida segurança e considerando os requisitos mínimos para a viabilidade do modelo comercial da Makesystem. Neste âmbito, não há possibilidade de serem realizadas alterações ou adendos.**
+### **Este modelo de contrato é aplicado, de forma igualitária, a todos os clientes da Makesystem. Seu formato já é adaptado para ser o mais sucinto possível para os nossos clientes, provendo-lhes a devida segurança e considerando os requisitos mínimos para a viabilidade do modelo comercial da Makesystem. Neste âmbito, não há possibilidade de serem realizadas alterações ou adendos.**
   
 Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as partes ajustam o que segue:
 
-### 1. Definições
+>## 1. Definições
 
 “Afiliada” significa toda entidade que controla, é controlada por ou encontra-se sob controle comum de uma das entidades CONTRATANTEs. “Controle” para todos os fins, significa a propriedade direta ou indireta ou controle de mais de 50% do capital com direito a voto.  
   
@@ -54,7 +53,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 “Violação” significa a violação de segurança que leva à destruição acidental ou ilegal, perda, alteração, divulgação não autorizada ou acesso a Dados Pessoais e/ou Dados Pessoais Sensíveis transmitidos, armazenados ou tratados de outra forma.
 
-### 2. Serviços
+>## 2. Serviços
 
 2.1. Prestação dos Serviços. A CONTRATADA deverá disponibilizar os serviços nos termos do presente Contrato e dos Formulários de Pedido aplicáveis, durante cada período de assinatura. O CONTRATANTE declara concordar que a assinatura ora contratada não contém ou garante futuras funcionalidades ou características dos Serviços, independente de notas orais ou escritas emitidas pela CONTRATADA.  
   
@@ -74,7 +73,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 2.6. Prestação de serviços de Implementação e Consultoria. O CONTRATANTE, além dos serviços previstos no item 2.1. e no item 2.2., poderá contratar serviços de Consultoria, com escopo apresentado em proposta específica. (i) Para contratar os serviços de Consultoria previstos nesta cláusula, o CONTRATANTE deverá aceitar os termos e condições previstos no Formulário de Pedido; e (ii) Os serviços de Consultoria serão cobrados em conformidade com o respectivo Formulário de Pedido mencionado nos itens anteriores e de acordo com o pacote escolhido no momento da contratação. Na hipótese de o CONTRATANTE optar por contratar os serviços aqui previstos com base na previsão de número de horas técnicas, estas, quando não utilizadas em sua totalidade, não serão restituídas e não poderão ser utilizadas em contratações futuras desta natureza ou mesmo para os serviços previstos na cláusula 2.2.
 
-### 3. Fornecedores diversos da contratada
+>## 3. Fornecedores diversos da contratada
 
 3.1. Aquisição de Produtos e Serviços não Fornecidos pela CONTRATADA. A CONTRATADA ou terceiros poderão, periodicamente, disponibilizar ao CONTRATANTE (p.ex. por meio do http://www.makesystem.com) produtos e serviços fornecidos por terceiros, incluindo mas não se limitando a aplicativos, implementação, customização ou outros serviços de consultoria. Quaisquer aquisições pelo CONTRATANTE de produtos ou serviços não fornecidos pela CONTRATADA, bem como a troca de informações entre o CONTRATANTE e os respectivos fornecedores destes produtos e serviços, dar-se-á exclusivamente entre estes. A CONTRATADA não concede garantia ou suporte de produtos ou serviços fornecidos por terceiros, sejam ou não designados como certificados pela CONTRATADA, exceto se especificado no Formulário de Pedido. Sujeito ao disposto na cláusula abaixo “Integração com Aplicativos não Fornecidos pela CONTRATADA”, não se faz necessária a aquisição de qualquer aplicativo fornecido por terceiros para a utilização dos Serviços, salvo: dispositivo de informática compatível, sistema operacional, navegador e conexão à internet.  
   
@@ -82,7 +81,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 3.3. Integração com Funcionalidades não Fornecidas pela CONTRATADA. Os Serviços poderão conter aspectos desenvolvidos para operar conjuntamente com aplicativos não fornecidos pela CONTRATADA (p.ex. aplicativos Facebook, Instagram ou WhatsApp). Para utilizá-los, poderá ser exigido que o CONTRATANTE obtenha acesso aos mesmos por meio de seus respectivos fornecedores. Caso o fornecedor de quaisquer destes aplicativos interrompa a disponibilização do mesmo para operar em conjunto com as referidas particularidades dos Serviços em condições razoáveis, a CONTRATADA poderá interromper o fornecimento destas características dos Serviços, sem conceder ao Consumidor qualquer reembolso, crédito ou compensação.
 
-### 4. Remuneração e Pagamento
+>## 4. Remuneração e Pagamento
 
 4.1. Remuneração. O Contratante deverá pagar todos os valores especificados em todos os Formulários de Pedido ou qualquer documento sob este contrato, e todas as assinaturas adicionais solicitadas ou adquiridas diretamente no Sistema, considerando e não se limitando a: (i) a remuneração é baseada nos Serviços adquiridos de forma pró rata e não na sua real utilização; (ii) a obrigatoriedade de pagamento não concede a Contratante, a possibilidade de cancelamento, assim como, os valores pagos não são restituíveis; e (iii) o número de assinaturas de Usuários não poderá ser reduzido durante o período de assinatura/vigência acordados no Formulário de Pedido. O cálculo para pagamento destas pela Contratada, é baseado em períodos mensais, iniciando-se na data da assinatura e cobrada no mesmo dia dos meses subsequentes. Desse modo, o pagamento pela adição de assinaturas de Usuários em meio ao período mensal, será calculado pelo valor integral do mês, assim como, os períodos mensais subsequentes remanescentes do prazo de assinatura.  
   
@@ -97,7 +96,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
 4.6. Tributos. Salvo se diversamente disposto, a remuneração estabelecida pela CONTRATADA inclui todos os tributos, encargos e taxas. Na eventualidade de incidirem mudanças das alíquotas vigentes e/ou novos tributos, contribuições e encargos sejam de natureza trabalhista, social, previdenciária ou fiscal, seja em âmbito, Federal, Estadual ou Municipal que sejam imputados à CONTRATADA, esta automaticamente repassará aos preços vigentes, os encargos que sejam de sua responsabilidade, imediatamente, a vigência do normativo legal, de forma a restabelecer o equilíbrio econômico financeiro do Contrato.
 4.7 Reajustes. Os valores dos planos de licenciamento estabelecidos no ato do licenciamento do SOFTWARE serão atualizados anualmente pelo IGPM-FGV acumulado no período, ou no caso de extinção deste, de outro índice oficial que venha a substituí-lo. Eventualmente poderão ocorrer alterações nos preços dos planos e adicionais contratados, caso isto ocorra você será informado com no mínimo 7 dias de antecedência da sua próxima renovação.
 
-### 5. Direitos de Propriedade
+>## 5. Direitos de Propriedade
 
 5.1. Reserva de Direitos dos Serviços. Observadas as limitações expressamente garantidas pelo presente contrato, a CONTRATADA reserva-se o direito, título e interesse em e para os Serviços, incluindo todos os direitos de propriedade intelectual correlatos. Nenhum direito é garantido ao CONTRATANTE sob este contrato, salvo aqueles expressamente dispostos no presente.  
   
@@ -109,7 +108,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 5.5. Recomendação. A CONTRATADA deverá possuir uma licença gratuita, mundial, irrevogável e perpétua para utilizar e incorporar aos Serviços quaisquer sugestões, intensificação de requisitos, recomendações ou outras respostas apontadas pelo CONTRATANTE, Usuários, relativas à execução dos Serviços.
 
-### 6. Confidencialidade
+>## 6. Confidencialidade
 
 6.1. Definição de Informação Confidencial. Conforme utilizada no presente “Informação Confidencial”, significa todas as informações confidenciais fornecidas por uma parte (“Parte Reveladora”) à outra parte (“Parte Receptora”), oralmente ou por escrito, que esteja assinalada como confidencial, ou que razoavelmente possa ser compreendida como confidencial em razão de sua natureza e as circunstâncias de sua revelação. As Informações Confidenciais do CONTRATANTE deverão abarcar os dados do CONTRATANTE; Informações Confidenciais da CONTRATADA deverão abarcar os Serviços; e Informações Confidenciais de cada parte deverão incluir os termos e condições deste contrato e de todos os Formulários de Pedido, incluindo planos de negócio e marketing, informações técnicas e de tecnologia, projetos de produtos e design, bem como procedimentos comerciais, revelados pela Parte Reveladora. Contudo, as Informações Confidenciais (que não os dados do CONTRATANTE), não deverão incluir qualquer informação que (i) for ou tornar-se de domínio público sem o descumprimento de qualquer obrigação para com a Parte Reveladora, (ii) for de conhecimento da Parte Receptora anteriormente à sua divulgação pela Parte Reveladora, sem o descumprimento de qualquer obrigação devida à esta, (iii) for recebida de um terceiro sem o descumprimento de qualquer dever para com a Parte Reveladora, ou, (iv) for desenvolvida de forma independente pela Parte Receptora.  
   
@@ -117,7 +116,7 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 6.3. Revelação Compulsória. A Parte Receptora poderá revelar as Informações Confidenciais da Parte Reveladora se for legalmente compelida a fazê-lo, desde que notifique previamente a Parte Reveladora acerca de tal dever legal (nos limites legalmente admitidos), bem como forneça assistência razoável, às expensas desta última, caso esta deseje contestar a divulgação. Se a Parte Receptora for compelida por lei a revelar as Informações Confidenciais da Parte Reveladora em razão de processo judicial do qual a Parte Reveladora seja parte, e esta não contestar a divulgação, reembolsará a Parte Receptora pelos custos razoavelmente despendidos para compilar e fornecer acesso seguro a tais informações em observância à ordem judicial.
 
-### 7. Garantias, medidas privativas e avisos
+>## 7. Garantias, medidas privativas e avisos
 
 6.1. Definição de Informação Confidencial. Conforme utilizada no presente “Informação Confidencial”, significa todas as informações confidenciais fornecidas por uma parte (“Parte Reveladora”) à outra parte (“Parte Receptora”), oralmente ou por escrito, que esteja assinalada como confidencial, ou que razoavelmente possa ser compreendida como confidencial em razão de sua natureza e as circunstâncias de sua revelação. As Informações Confidenciais do CONTRATANTE deverão abarcar os dados do CONTRATANTE; Informações Confidenciais da CONTRATADA deverão abarcar os Serviços; e Informações Confidenciais de cada parte deverão incluir os termos e condições deste contrato e de todos os Formulários de Pedido, incluindo planos de negócio e marketing, informações técnicas e de tecnologia, projetos de produtos e design, bem como procedimentos comerciais, revelados pela Parte Reveladora. Contudo, as Informações Confidenciais (que não os dados do CONTRATANTE), não deverão incluir qualquer informação que (i) for ou tornar-se de domínio público sem o descumprimento de qualquer obrigação para com a Parte Reveladora, (ii) for de conhecimento da Parte Receptora anteriormente à sua divulgação pela Parte Reveladora, sem o descumprimento de qualquer obrigação devida à esta, (iii) for recebida de um terceiro sem o descumprimento de qualquer dever para com a Parte Reveladora, ou, (iv) for desenvolvida de forma independente pela Parte Receptora.  
   
@@ -125,13 +124,13 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
   
 6.3. Revelação Compulsória. A Parte Receptora poderá revelar as Informações Confidenciais da Parte Reveladora se for legalmente compelida a fazê-lo, desde que notifique previamente a Parte Reveladora acerca de tal dever legal (nos limites legalmente admitidos), bem como forneça assistência razoável, às expensas desta última, caso esta deseje contestar a divulgação. Se a Parte Receptora for compelida por lei a revelar as Informações Confidenciais da Parte Reveladora em razão de processo judicial do qual a Parte Reveladora seja parte, e esta não contestar a divulgação, reembolsará a Parte Receptora pelos custos razoavelmente despendidos para compilar e fornecer acesso seguro a tais informações em observância à ordem judicial.
 
-### 8. Limitações de Responsabilidades
+>## 8. Limitações de Responsabilidades
 
 8.1. Limitação de Responsabilidade. A responsabilidade de qualquer das Partes relativa a cada evento isolado decorrente ou relacionado a este Contrato (seja contratual ou extracontratual ou sob qualquer outra teoria de responsabilidade) não deverá exceder o valor de R$ 1.000 (um mil reais). Tal previsão não limitará o pagamento, pelo CONTRATANTE, das obrigações contidas na Cláusula “Remuneração e Pagamento”, acima.  
   
 8.2. Exclusão de danos emergentes e indiretos. Em nenhuma hipótese, qualquer das Partes deverá ser responsabilizada por quaisquer reduções de receitas ou lucros, ou por qualquer dano indireto, especial, incidental, emergente, cobertura ou punição por danos causados de qualquer modo, seja contratual, extracontratual ou sob qualquer outra teoria de responsabilidade, tendo ou não a parte infratora sido alertada acerca da possibilidade de tais danos. A exclusão acima não se aplicará ao âmbito vedado por lei.
 
-### 9. Prazo e rescisão
+>## 9. Prazo e rescisão
 
 9.1. Vigência. O presente contrato tem data de início na data da assinatura, física ou digital do primeiro Formulário de Pedido, e permanecerá em vigor até que todas as assinaturas de usuário concedidas sob a égide deste instrumento tenham expirado ou sido rescindidas.  
   
@@ -147,7 +146,7 @@ O preço unitário poderá ser atualizado de acordo com a taxa de correção apl
   
 9.6. Cláusulas perenes. As Cláusulas denominadas “Remuneração e Pagamento”, “Direitos de Propriedade”, “Confidencialidade”, “Garantias e Avisos”, “Reembolso ou Pagamento na Rescisão”, “Devolução dos Dados do Cliente”, “Cláusulas Perenes” e “Disposições Gerais” permanecerão em vigor quando da rescisão ou término deste Contrato.
 
-### 10. Disposições gerais
+>## 10. Disposições gerais
 
 10.1. Anticorrupção. O CONTRATANTE declara que não lhe foi dado ou oferecido qualquer propina, suborno, pagamento, presente ou bens de valor por empregados da CONTRATADA, ou agentes relacionados a este Contrato. Caso o CONTRATANTE tome conhecimento de qualquer violação à presente restrição, deverá utilizar esforços razoáveis para imediatamente notificar o Departamento Legal da CONTRATADA.  
   

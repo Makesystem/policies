@@ -5,7 +5,7 @@
 ## Sabemos que é tentador pular estes Termos de Uso, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços da Makesystem e o que esperamos de você.
 
 
->## **Atualizações/Modificações deste Termo de Uso**
+>## **Atualizações / Modificações deste Termo de Uso**
 
 De tempos em tempos a Makesystem pode atualizar esse termo. A não ser que especificado pela Makesystem, quaisquer atualizações se tornam efetivas de acordo com a renovação do termo vigente do Contratante (como definido nas cláusulas abaixo), ou através de solicitação proativa da Contratante. A Makesystem buscará esforços razoáveis para notificar o Contratante através de vias de comunicações sinalizadas pelo Contratante no momento da contratação, como e-mail ou outros canais. O Contratante terá que clicar em "Aceito" ou "Solicitar Contato" sobre a atualização dos termos antes da renovação ou alteração de plano. Caso a Makesystem especifique que as atualizações ou modificações vão ser válidas antes da renovação do Contratante e o Contratante não acordar com as alterações, o Contratante pode optar por cancelar com a Makesystem(como definido nas cláusulas abaixo).
 

@@ -1,9 +1,8 @@
 # Termos de serviços da Makesystem
 
-*Em vigor a partir de 1 de junho de 2022*
+*Em vigor a partir de 5 de junho de 2022*
  
-**O que estes termos cobrem**
-### Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços  da Makesystem e o que esperamos de você.
+>## Sabemos que é tentador pular estes Termos de Serviço, mas é importante estabelecer o que você pode esperar de nós ao usar os serviços  da Makesystem e o que esperamos de você.
 
 ## Termos
 

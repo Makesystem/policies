@@ -21,10 +21,8 @@ CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como
   
 ### **Este modelo de contrato é aplicado, de forma igualitária, a todos os clientes da Makesystem. Seu formato já é adaptado para ser o mais sucinto possível para os nossos clientes, provendo-lhes a devida segurança e considerando os requisitos mínimos para a viabilidade do modelo comercial da Makesystem. Neste âmbito, não há possibilidade de serem realizadas alterações ou adendos.**
   
-Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as partes ajustam o que segue:
+### Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as partes ajustam o que segue:
 
-\n
-\n
 ---
 >## 1. Definições
 

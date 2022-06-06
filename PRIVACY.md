@@ -1,5 +1,5 @@
 
-# Termos de Uso
+# Política de Privacidade
 
 >Em vigor a partir de 5 de junho de 2022
  

@@ -131,6 +131,8 @@ Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as p
 8.2. Exclusão de danos emergentes e indiretos. Em nenhuma hipótese, qualquer das Partes deverá ser responsabilizada por quaisquer reduções de receitas ou lucros, ou por qualquer dano indireto, especial, incidental, emergente, cobertura ou punição por danos causados de qualquer modo, seja contratual, extracontratual ou sob qualquer outra teoria de responsabilidade, tendo ou não a parte infratora sido alertada acerca da possibilidade de tais danos. A exclusão acima não se aplicará ao âmbito vedado por lei.
 
 ---
+|
+---
 >## 9. Prazo e rescisão
 
 9.1. Vigência. O presente contrato tem data de início na data da assinatura, física ou digital do primeiro Formulário de Pedido, e permanecerá em vigor até que todas as assinaturas de usuário concedidas sob a égide deste instrumento tenham expirado ou sido rescindidas.  

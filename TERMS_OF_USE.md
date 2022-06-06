@@ -7,7 +7,7 @@
 
 >## **Atualizações / Modificações deste Termo de Uso**
 
-De tempos em tempos a Makesystem pode atualizar esse termo. A não ser que especificado pela Makesystem, quaisquer atualizações se tornam efetivas de acordo com a renovação do termo vigente do Contratante (como definido nas cláusulas abaixo), ou através de solicitação proativa da Contratante. A Makesystem buscará esforços razoáveis para notificar o Contratante através de vias de comunicações sinalizadas pelo Contratante no momento da contratação, como e-mail ou outros canais. O Contratante terá que clicar em "Aceito" ou "Solicitar Contato" sobre a atualização dos termos antes da renovação ou alteração de plano. Caso a Makesystem especifique que as atualizações ou modificações vão ser válidas antes da renovação do Contratante e o Contratante não acordar com as alterações, o Contratante pode optar por cancelar com a Makesystem(como definido nas cláusulas abaixo).
+De tempos em tempos a Makesystem pode atualizar esse termo. A não ser que especificado pela Makesystem, quaisquer atualizações se tornam efetivas de acordo com a renovação do termo vigente do Contratante (como definido nas cláusulas abaixo), ou através de solicitação proativa da Contratante. A Makesystem buscará esforços razoáveis para notificar o Contratante através de vias de comunicações sinalizadas pelo Contratante no momento da contratação, como e-mail ou outros canais. O Contratante terá que clicar em "Aceito" ou "Solicitar Contato" sobre a atualização dos termos antes da renovação ou alteração de plano. Caso a Makesystem especifique que as atualizações ou modificações vão ser válidas antes da renovação do Contratante e o Contratante não acordar com as alterações, o Contratante pode optar por cancelar com a Makesystem (como definido nas cláusulas abaixo).
 
 >## Contrato Master de Assinatura & Serviços de Software
 
@@ -155,7 +155,7 @@ O preço unitário poderá ser atualizado de acordo com a taxa de correção apl
   
 9.6. Cláusulas perenes. As Cláusulas denominadas “Remuneração e Pagamento”, “Direitos de Propriedade”, “Confidencialidade”, “Garantias e Avisos”, “Reembolso ou Pagamento na Rescisão”, “Devolução dos Dados do Cliente”, “Cláusulas Perenes” e “Disposições Gerais” permanecerão em vigor quando da rescisão ou término deste Contrato.
 
-![](https://raw.githubusercontent.com/Makesystem/policies/main/resources/images/about_these_terms_illustration.png)
+---
 >## 10. Disposições gerais
 
 10.1. Anticorrupção. O CONTRATANTE declara que não lhe foi dado ou oferecido qualquer propina, suborno, pagamento, presente ou bens de valor por empregados da CONTRATADA, ou agentes relacionados a este Contrato. Caso o CONTRATANTE tome conhecimento de qualquer violação à presente restrição, deverá utilizar esforços razoáveis para imediatamente notificar o Departamento Legal da CONTRATADA.  

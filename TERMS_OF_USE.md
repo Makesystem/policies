@@ -23,10 +23,10 @@ CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como
   
 Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as partes ajustam o que segue:
 
-#
-#
+![]()
+![]()
 ---
-#
+![]()
 >## 1. Definições
 
 “Afiliada” significa toda entidade que controla, é controlada por ou encontra-se sob controle comum de uma das entidades CONTRATANTEs. “Controle” para todos os fins, significa a propriedade direta ou indireta ou controle de mais de 50% do capital com direito a voto.  

@@ -26,31 +26,33 @@ CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como
 ---
 >## 1. Definições
 
-“Afiliada” significa toda entidade que controla, é controlada por ou encontra-se sob controle comum de uma das entidades CONTRATANTEs. “Controle” para todos os fins, significa a propriedade direta ou indireta ou controle de mais de 50% do capital com direito a voto.  
-“CONTRATANTE” significa o CONTRATANTE acima descrito ou qualquer de suas Afiliadas. “Dados do CONTRATANTE” significam todos os dados eletrônicos ou informações submetidas pelo CONTRATANTE.    
-“Controlador” significa qualquer pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento.  
+**“Afiliada”** significa toda entidade que controla, é controlada por ou encontra-se sob controle comum de uma das entidades CONTRATANTEs. “Controle” para todos os fins, significa a propriedade direta ou indireta ou controle de mais de 50% do capital com direito a voto.  
+
+**“CONTRATANTE”** significa o CONTRATANTE acima descrito ou qualquer de suas Afiliadas. “Dados do CONTRATANTE” significam todos os dados eletrônicos ou informações submetidas pelo CONTRATANTE.    
+
+**“Controlador”** significa qualquer pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento.  
   
-“Código Malicioso” significa vírus, vírus classificados como “worms”, bomba relógio, Cavalo de Tróia e outros códigos, arquivos, scripts, agentes ou programas, que sejam prejudiciais ou mal-intencionados.  
+**“Código Malicioso”** significa vírus, vírus classificados como “worms”, bomba relógio, Cavalo de Tróia e outros códigos, arquivos, scripts, agentes ou programas, que sejam prejudiciais ou mal-intencionados.  
   
-“Aplicativos Não Fornecidos pela CONTRATADA” significa aplicativos online e softwares off-line fornecidos por entidades ou indivíduos que não a CONTRATADA, assim são claramente identificados.  
+**“Aplicativos Não Fornecidos pela CONTRATADA”** significa aplicativos online e softwares off-line fornecidos por entidades ou indivíduos que não a CONTRATADA, assim são claramente identificados.  
   
-“Dados Pessoais” significa qualquer informação relacionada a uma pessoa física identificada ou identificável.  
+**“Dados Pessoais”** significa qualquer informação relacionada a uma pessoa física identificada ou identificável.  
   
-“Dados Pessoais Sensíveis” significa Dados Pessoais sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculados a uma pessoa física.  
+**“Dados Pessoais Sensíveis”** significa Dados Pessoais sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculados a uma pessoa física.  
   
-“Formulário de Pedido” significa os documentos formulados sob a égide deste contrato e que firmado entre o CONTRATANTE e a CONTRATADA ou quaisquer de suas Afiliadas periodicamente, incluindo adendos e aditamentos. Pela assinatura do Formulário de Pedido ora designado, as Afiliadas concordam em vincular-se ao presente Contrato como se partes originais fossem. Os Formulários de Pedido deverão ser considerados parte integrante do presente.  
+**“Formulário de Pedido”** significa os documentos formulados sob a égide deste contrato e que firmado entre o CONTRATANTE e a CONTRATADA ou quaisquer de suas Afiliadas periodicamente, incluindo adendos e aditamentos. Pela assinatura do Formulário de Pedido ora designado, as Afiliadas concordam em vincular-se ao presente Contrato como se partes originais fossem. Os Formulários de Pedido deverão ser considerados parte integrante do presente.  
   
-“Operador” significa qualquer pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento em nome do Controlador.  
+**“Operador”** significa qualquer pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento em nome do Controlador.  
   
-“Serviços” ou “Sistema” significam os produtos e serviços solicitados pelo CONTRATANTE por meio do Formulário de Pedido e disponibilizados pela CONTRATADA por meio de acesso do CONTRATANTE via link https://www.makesystem.com e/ou outros endereços eletrônicos determinados pela CONTRATADA.  
+**“Serviços”** ou **“Sistema”** significam os produtos e serviços solicitados pelo CONTRATANTE por meio do Formulário de Pedido e disponibilizados pela CONTRATADA por meio de acesso do CONTRATANTE via link https://www.makesystem.com e/ou outros endereços eletrônicos determinados pela CONTRATADA.  
   
-“Serviços” exclui Aplicativos não fornecidos pela CONTRATADA.  
+**“Serviços”** exclui Aplicativos não fornecidos pela CONTRATADA.  
   
-“Titular de Dados” significa a pessoa natural a quem se referem os Dados Pessoais ou Dados Pessoais Sensíveis que são objeto de tratamento.  
+**“Titular de Dados”** significa a pessoa natural a quem se referem os Dados Pessoais ou Dados Pessoais Sensíveis que são objeto de tratamento.  
   
-“Usuários” significam os indivíduos autorizados pelo CONTRATANTE a utilizar os Serviços, para quem as assinaturas dos Serviços tenham sido solicitadas e aqueles que receberem identificação de usuário e senha do CONTRATANTE (ou da CONTRATADA mediante solicitação do CONTRATANTE). Usuários poderão ser, sem limitar-se, empregados, consultores, contratados e agentes do CONTRATANTE, bem como terceiros com quem o CONTRATANTE venha a contratar.  
+**“Usuários”** significam os indivíduos autorizados pelo CONTRATANTE a utilizar os Serviços, para quem as assinaturas dos Serviços tenham sido solicitadas e aqueles que receberem identificação de usuário e senha do CONTRATANTE (ou da CONTRATADA mediante solicitação do CONTRATANTE). Usuários poderão ser, sem limitar-se, empregados, consultores, contratados e agentes do CONTRATANTE, bem como terceiros com quem o CONTRATANTE venha a contratar.  
   
-“Violação” significa a violação de segurança que leva à destruição acidental ou ilegal, perda, alteração, divulgação não autorizada ou acesso a Dados Pessoais e/ou Dados Pessoais Sensíveis transmitidos, armazenados ou tratados de outra forma.
+**“Violação”** significa a violação de segurança que leva à destruição acidental ou ilegal, perda, alteração, divulgação não autorizada ou acesso a Dados Pessoais e/ou Dados Pessoais Sensíveis transmitidos, armazenados ou tratados de outra forma.
 
 ---
 >## 2. Serviços

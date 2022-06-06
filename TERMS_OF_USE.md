@@ -27,9 +27,7 @@ CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como
 >## 1. Definições
 
 “Afiliada” significa toda entidade que controla, é controlada por ou encontra-se sob controle comum de uma das entidades CONTRATANTEs. “Controle” para todos os fins, significa a propriedade direta ou indireta ou controle de mais de 50% do capital com direito a voto.  
-  
-“CONTRATANTE” significa o CONTRATANTE acima descrito ou qualquer de suas Afiliadas. “Dados do CONTRATANTE” significam todos os dados eletrônicos ou informações submetidas pelo CONTRATANTE.  
-  
+“CONTRATANTE” significa o CONTRATANTE acima descrito ou qualquer de suas Afiliadas. “Dados do CONTRATANTE” significam todos os dados eletrônicos ou informações submetidas pelo CONTRATANTE.    
 “Controlador” significa qualquer pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento.  
   
 “Código Malicioso” significa vírus, vírus classificados como “worms”, bomba relógio, Cavalo de Tróia e outros códigos, arquivos, scripts, agentes ou programas, que sejam prejudiciais ou mal-intencionados.  

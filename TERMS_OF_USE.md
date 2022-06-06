@@ -23,6 +23,8 @@ CONTRATADA e CONTRATANTE doravante referidas, individual e indistintamente, como
   
 Para boa e valiosa consideração, como recibo de conhecimento e autonomia, as partes ajustam o que segue:
 
+\n
+\n
 ---
 >## 1. Definições
 

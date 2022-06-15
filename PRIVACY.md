@@ -40,7 +40,7 @@ Nós utilizamos os dados coletados ou recebidos a partir da utilização dos Ser
 -   Avaliar ou entender a eficácia da publicidade que veiculamos, visando fornecer publicidades relevantes para você;
 -   Gerenciar riscos e detectar, prevenir e/ou remediar fraudes ou outras atividades potencialmente ilegais ou proibidas, além de violações de políticas, contratos ou termos de uso aplicáveis;
 -   Conforme necessário, para estabelecer, exercer e defender direitos em processos judiciais, administrativos ou arbitrais;
--   Cumprir com obrigações legais ou regulatórias, ou conforme exigido em um processo judicial, por qualquer órgão de aplicação da lei ou do governo com competência, ou que alegue ter competência, sobre o Grupo Locaweb;
+-   Cumprir com obrigações legais ou regulatórias, ou conforme exigido em um processo judicial, por qualquer órgão de aplicação da lei ou do governo com competência, ou que alegue ter competência, sobre a Makesystem;
 -   Para outras finalidades as quais fornecemos um aviso específico no momento da coleta, ou, de outro modo, conforme autorizado ou exigido por lei.
 
 ## Consentimento

@@ -11,7 +11,7 @@ Esta Política de Privacidade destina-se a ajudar você a entender quais informa
 ## Dados que coletamos
 De forma geral, quando um Cliente (ou para os fins desta seção, “você”) ou a sua empresa contrata, utiliza ou interage com os Serviços, nós coletamos os seus dados pessoais, que podem ser divididos em três grandes categorias:
 
-1.	**Dados que você nos fornece:** quando você contrata, utiliza ou interage com os Serviços ou se comunica conosco de alguma forma, você (ou a sua empresa) pode nos fornecer alguns dados. Esses dados incluem:
+1. **Dados que você nos fornece:** quando você contrata, utiliza ou interage com os Serviços ou se comunica conosco de alguma forma, você (ou a sua empresa) pode nos fornecer alguns dados. Esses dados incluem:
 	-   Dados de contato profissional, como o seu nome, cargo, empresa, localização, número de telefone e endereço de e-mail;
 	-   Preferências de marketing;
 	-   Credenciais de conta, como o seu endereço de e-mail, usuário e senha;

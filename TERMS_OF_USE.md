@@ -19,15 +19,15 @@ O conteúdo, gráficos, design, compilação, tradução, conversão digital e o
 
 **Você não pode:**
 
-1.  copiar, imprimir, republicar, exibir, distribuir, transmitir, vender, alugar, arrendar, emprestar ou disponibilizar qualquer parte do site "**makesystem**.com.br", serviços, conteúdo e materiais recuperados dos mesmos, independente da forma ou meio;
-2.  criar compilações ou trabalhos derivados de qualquer conteúdo e materiais do site ou serviços;
-3.  usar qualquer conteúdo e materiais do site  **Makesystem**  de qualquer forma que possa infringir os direitos autorais e de propriedade intelectual;
-4.  remover, alterar ou ocultar qualquer aviso de copyright, de propriedade ou Termos de Uso contidos no site  **Makesystem**;
-5.  remover, decompilar, desmontar ou fazer engenharia reversa de qualquer natureza, site  **Makesystem**;
-6.  utilizar qualquer processo automático ou manual para colher informações do site ou dos serviços;
-7.  utilizar o site  **Makesystem**  com a finalidade de reunir informações para transmitir e-mail comercial não solicitado;
-8.  utilizar o site  **Makesystem**  de uma forma que viole qualquer lei estadual ou federal que regulamenta e-mail, fax e chamadas telefônicas;
-9.  exportar o site  **Makesystem**  ou qualquer parte dele.
+1.  Copiar, imprimir, republicar, exibir, distribuir, transmitir, vender, alugar, arrendar, emprestar ou disponibilizar qualquer parte do site "**makesystem**.com.br", serviços, conteúdo e materiais recuperados dos mesmos, independente da forma ou meio;
+2.  Criar compilações ou trabalhos derivados de qualquer conteúdo e materiais do site ou serviços;
+3.  Usar qualquer conteúdo e materiais do site  **Makesystem**  de qualquer forma que possa infringir os direitos autorais e de propriedade intelectual;
+4.  Remover, alterar ou ocultar qualquer aviso de copyright, de propriedade ou Termos de Uso contidos no site  **Makesystem**;
+5.  Remover, decompilar, desmontar ou fazer engenharia reversa de qualquer natureza, site  **Makesystem**;
+6.  Utilizar qualquer processo automático ou manual para colher informações do site ou dos serviços;
+7.  Utilizar o site  **Makesystem**  com a finalidade de reunir informações para transmitir e-mail comercial não solicitado;
+8.  Utilizar o site  **Makesystem**  de uma forma que viole qualquer lei estadual ou federal que regulamenta e-mail, fax e chamadas telefônicas;
+9.  Exportar o site  **Makesystem**  ou qualquer parte dele.
 
 ## Registro
 

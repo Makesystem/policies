@@ -52,7 +52,10 @@ Ao utilizar nossos serviços entendemos que você está de acordo com a coleta d
 Podemos divulgar suas informações pessoais caso sejamos obrigados pela lei para fazê-lo ou se você violar nossos Termos de Serviço.
 
 ## Segurança
-Para proteger suas informações pessoais, tomamos precauções razoáveis e seguimos as melhores práticas da indústria para nos certificar que elas não serão perdidas inadequadamente, usurpadas, acessadas, divulgadas, alteradas ou destruídas. 
+Para proteger suas informações pessoais, tomamos precauções razoáveis e seguimos as melhores práticas da indústria para nos certificar que elas não serão perdidas inadequadamente, usurpadas, acessadas, divulgadas, alteradas ou destruídas.
+
+## Como usamos cookies
+Usamos cookies para reconhecer você quando acessar, salvar suas preferências de configuração e proteger sua conta. Com os cookies possibilitamos que você não precise informar suas credenciais para entrar na sua conta quando acessá-la de um dispositivo que você normalmente usa.
 
 ## Alterações para está política de privacidade
 Reservamos o direito de modificar essa política de privacidade a qualquer momento, então por favor, revise-a com frequência. Alterações e esclarecimentos vão surtir efeito imediatamente após sua publicação no site. Se fizermos alterações de materiais para essa política, iremos notificá-lo que eles foram atualizados, para que você tenha ciência sobre quais informações coletamos, como as usamos, e sob que circunstâncias, se alguma, usamos e/ou divulgamos elas.
